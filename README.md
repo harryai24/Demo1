@@ -1,4 +1,4 @@
 # Demo1
 This is my first Git Repository
 <br>
-Author - Hemant Jung
+Author - Hemant Baduwal
